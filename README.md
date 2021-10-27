@@ -2,7 +2,7 @@
 
 I present you my Web-DrumKit with Keyboard support. 
 
-Have Fun Jamming around :musical_keyboard:
+Have Fun jamming around :musical_keyboard:
 
 ## Tech Stack 
 - HTML
